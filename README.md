@@ -36,6 +36,8 @@ A curated list of research papers/articles from the Deep Learning Specialization
     + [Bleu Score](#bleu-score)
     + [Attention based intuation](#attention-based-intuation)
     + [Speech Recognition](#speech-recognition)
+  * [Week 4](#week-4)
+    + [Transformers](#transformers)
 
 
 # Convolutional Neural Networks
@@ -51,7 +53,7 @@ A curated list of research papers/articles from the Deep Learning Specialization
 - [Going deeper with convolutions](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43022.pdf) 
 - [Network In Network](https://arxiv.org/abs/1312.4400.pdf)
 ##### Inception Networks
-- [Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842.pdf)
+- [Going Deeper with Convolutions](https://arxiv.org/pdf/1409.4842.pdf)
 ##### MobileNets
 - [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/pdf/1704.04861.pdf)
 - [MobileNetV2: Inverted Residuals and Linear Bottlenecks](https://arxiv.org/pdf/1801.04381.pdf)
@@ -122,6 +124,10 @@ A curated list of research papers/articles from the Deep Learning Specialization
 - [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/pdf/1502.03044.pdf)
 ##### Speech Recognition
 - [Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks](https://www.cs.toronto.edu/~graves/icml_2006.pdf)
+
+## Week 4
+##### Transformers
+- [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
 
 
 # Further Reading List
