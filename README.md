@@ -29,7 +29,7 @@ A curated list of research papers/articles from the Deep Learning Specialization
     + [Word Embeddings](#word-embeddings)
     + [Negative Sampling](#negative-sampling)
     + [GloVe](#glove)
-    + [Debaising Word Embeddings](#debaising-word-embeddings)
+    + [Debiasing Word Embeddings](#debiasing-word-embeddings)
   * [Week 3 ](#week-3 )
     + [Sequence to Sequence Model](#sequence-to-sequence-model)
     + [Image Captioning](#image-captioning)
@@ -106,7 +106,7 @@ A curated list of research papers/articles from the Deep Learning Specialization
 - [Distributed Representations of Words and Phrases and their Compositionality](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
 ##### GloVe
 - [GloVe: Global Vectors for Word Representation](https://www.aclweb.org/anthology/D14-1162.pdf)
-##### Debaising Word Embeddings
+##### Debiasing Word Embeddings
 - [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings.pdf)
 
 ## Week 3 
