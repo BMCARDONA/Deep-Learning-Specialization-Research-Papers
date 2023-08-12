@@ -5,6 +5,33 @@ A curated list of research papers/articles from the Deep Learning Specialization
 This is a list of research papers referenced by the
 [Deep Learning Specialization](https://www.deeplearning.ai/deep-learning-specialization/) course.
 
+# Research Papers / Articles
+- [Convolutional Neural Networks](#convolutional-neural-networks)
+  * [Week 2](#week-2)
+    + [Classic Networks](#classic-networks)
+    + [Residual Nets (ResNets)](#residual-nets-resnets)
+    + [Networks in Networks and 1x1 Convolutions](#networks-in-networks-and-1x1-convolutions)
+    + [Inception Networks](#inception-networks)
+  * [Week 3](#week-3)
+    + [Convolutional Implementation of Sliding Windows](#convolutional-implementation-of-sliding-windows)
+    + [Bounding Box Predictions](#bounding-box-predictions)
+    + [Region Proposals](#region-proposals)
+  * [Week 4](#week-4)
+    + [Siamese Network](#siamese-network)
+    + [Triplet Loss](#triplet-loss)
+    + [What are deep ConvNets learning?](#what-are-deep-convnets-learning?)
+    + [Neural Style](#neural-style)
+    + [Image Recognition ](#image-recognition )
+- [NLP Sequence Models ](#nlp-sequence-models )
+  * [Week 1 ](#week-1 )
+    + [GRU](#gru)
+    + [LSTM](#lstm)
+  * [Week 2](#week-2-1)
+    + [Skip-Grams, Hierarchical Softmax](#skip-grams-hierarchical-softmax)
+    + [Word Embeddings](#word-embeddings)
+    + [Negative Sampling](#negative-sampling)
+
+
 # Convolutional Neural Networks
 
 ## Week 2
