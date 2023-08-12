@@ -5,7 +5,7 @@ A curated list of research papers/articles from the Deep Learning Specialization
 This is a list of research papers referenced by the
 [Deep Learning Specialization](https://www.deeplearning.ai/deep-learning-specialization/) course.
 
-# Research Papers / Articles
+# Table of Contents
 - [Convolutional Neural Networks](#convolutional-neural-networks)
   * [Week 2](#week-2)
     + [Classic Networks](#classic-networks)
@@ -30,6 +30,14 @@ This is a list of research papers referenced by the
     + [Skip-Grams, Hierarchical Softmax](#skip-grams-hierarchical-softmax)
     + [Word Embeddings](#word-embeddings)
     + [Negative Sampling](#negative-sampling)
+    + [Glove](#glove)
+    + [Debaising Word Embeddings](#debaising-word-embeddings)
+  * [Week 3 ](#week-3 )
+    + [Sequence to Sequence Model](#sequence-to-sequence-model)
+    + [Image Captioning](#image-captioning)
+    + [Bleu Score](#bleu-score)
+    + [Attention based intuation](#attention-based-intuation)
+    + [Speech Recognition](#speech-recognition)
 
 
 # Convolutional Neural Networks
