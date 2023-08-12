@@ -36,7 +36,7 @@ A curated list of research papers/articles from the Deep Learning Specialization
     + [Bleu Score](#bleu-score)
     + [Attention based intuation](#attention-based-intuation)
     + [Speech Recognition](#speech-recognition)
-  * [Week 4](#week-4)
+  * [Week 4 ](#week-4 )
     + [Transformers](#transformers)
 
 
@@ -125,7 +125,7 @@ A curated list of research papers/articles from the Deep Learning Specialization
 ##### Speech Recognition
 - [Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks](https://www.cs.toronto.edu/~graves/icml_2006.pdf)
 
-## Week 4
+## Week 4 
 ##### Transformers
 - [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
 
