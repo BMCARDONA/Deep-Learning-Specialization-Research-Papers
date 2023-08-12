@@ -10,28 +10,29 @@ This is a list of research papers referenced by the
   * [Week 2](#week-2)
     + [Classic Networks](#classic-networks)
     + [Residual Nets (ResNets)](#residual-nets-resnets)
-    + [Networks in Networks and 1x1 Convolutions](#networks-in-networks-and-1x1-convolutions)
+    + [Networks in Networks, 1x1 Convolutions](#networks-in-networks-1x1-convolutions)
     + [Inception Networks](#inception-networks)
+    + [MobileNets](#mobilenets)
   * [Week 3](#week-3)
     + [Convolutional Implementation of Sliding Windows](#convolutional-implementation-of-sliding-windows)
-    + [Bounding Box Predictions](#bounding-box-predictions)
+    + [YOLO algorithm](#yolo-algorithm)
     + [Region Proposals](#region-proposals)
-    + [U-Nets](#U-Nets)
+    + [U-Nets](#u-nets)
   * [Week 4](#week-4)
     + [Siamese Network](#siamese-network)
     + [Triplet Loss](#triplet-loss)
     + [What are deep ConvNets learning?](#what-are-deep-convnets-learning?)
-    + [Neural Style](#neural-style)
+    + [Neural Style transfer](#neural-style-transfer)
     + [Image Recognition ](#image-recognition )
 - [NLP Sequence Models ](#nlp-sequence-models )
   * [Week 1 ](#week-1 )
-    + [GRU](#gru)
-    + [LSTM](#lstm)
+    + [Gated Recurrent Units (GRUs)](#gated-recurrent-units-grus)
+    + [Long Short-Term Memory (LSTM)](#long-short-term-memory-lstm)
   * [Week 2](#week-2-1)
     + [Skip-Grams, Hierarchical Softmax](#skip-grams-hierarchical-softmax)
     + [Word Embeddings](#word-embeddings)
     + [Negative Sampling](#negative-sampling)
-    + [Glove](#glove)
+    + [GloVe](#glove)
     + [Debaising Word Embeddings](#debaising-word-embeddings)
   * [Week 3 ](#week-3 )
     + [Sequence to Sequence Model](#sequence-to-sequence-model)
@@ -50,7 +51,7 @@ This is a list of research papers referenced by the
 - [Very deep convolutional networks for large scale image recognition](https://arxiv.org/pdf/1409.1556.pdf)
 ##### Residual Nets (ResNets) 
 - [Deep residual networks for image recognition](https://arxiv.org/abs/1512.03385)
-##### Networks in Networks and 1x1 Convolutions
+##### Networks in Networks, 1x1 Convolutions
 - [Going deeper with convolutions](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43022.pdf) 
 - [Network In Network](https://arxiv.org/abs/1312.4400.pdf)
 ##### Inception Networks
@@ -63,7 +64,7 @@ This is a list of research papers referenced by the
 ## Week 3
 ##### Convolutional Implementation of Sliding Windows
 - [OverFeat: Integrated recognition, localization and detection using convolutional networks](https://arxiv.org/pdf/1312.6229.pdf)
-##### YOLO
+##### YOLO algorithm
 - [You Only Look Once: Unified real-time object detection](https://pjreddie.com/media/files/papers/yolo.pdf)
 - [YOLO9000: Better, Faster, Stronger](https://arxiv.org/pdf/1612.08242.pdf)
 ##### Region Proposals
@@ -80,7 +81,7 @@ This is a list of research papers referenced by the
 - [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/pdf/1503.03832.pdf)
 ##### What are deep ConvNets learning?
 - [Visualizing and understanding convolutional networks](https://arxiv.org/pdf/1311.2901.pdf)
-##### Neural Style
+##### Neural Style transfer
 - [A neural algorithm of artistic style](https://arxiv.org/abs/1508.06576)
 - [Convolutional neural networks for artistic style transfer](https://harishnarayanan.org/writing/artistic-style-transfer/)
 - [TensorFlow Implementation of "A Neural Algorithm of Artistic Style"](http://www.chioka.in/tensorflow-implementation-neural-algorithm-of-artistic-style)
@@ -91,10 +92,10 @@ This is a list of research papers referenced by the
 # NLP Sequence Models 
 
 ## Week 1 
-##### GRU
+##### Gated Recurrent Units (GRUs)
 - [On the Properties of Neural Machine Translation: Encoder-Decoder Approaches](https://arxiv.org/pdf/1409.1259.pdf)
 - [Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling](https://arxiv.org/pdf/1412.3555.pdf)
-##### LSTM
+##### Long Short-Term Memory (LSTM)
 - [Long Short-Term Memory](https://www.bioinf.jku.at/publications/older/2604.pdf)
 
 ## Week 2
@@ -105,7 +106,7 @@ This is a list of research papers referenced by the
 - [A Neural Probabilistic Language Model](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
 ##### Negative Sampling
 - [Distributed Representations of Words and Phrases and their Compositionality](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
-##### Glove
+##### GloVe
 - [GloVe: Global Vectors for Word Representation](https://www.aclweb.org/anthology/D14-1162.pdf)
 ##### Debaising Word Embeddings
 - [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings.pdf)
