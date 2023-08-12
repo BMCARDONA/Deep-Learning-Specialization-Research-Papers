@@ -46,7 +46,7 @@ This is a list of research papers referenced by the
 ##### Classic Networks
 - [Gradient-based learning applied to document recognition](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)
 - [ImageNet classification with deep convolutional neural networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
-- [Very deep convolutional networks for large scale image recognition - He et al, 2015](https://arxiv.org/pdf/1409.1556.pdf)
+- [Very deep convolutional networks for large scale image recognition](https://arxiv.org/pdf/1409.1556.pdf)
 ##### Residual Nets (ResNets) 
 - [Deep residual networks for image recognition](https://arxiv.org/abs/1512.03385)
 ##### Networks in Networks and 1x1 Convolutions
@@ -55,17 +55,23 @@ This is a list of research papers referenced by the
 - [Network In Network](https://arxiv.org/abs/1312.4400.pdf)
 ##### Inception Networks
 - [Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842.pdf)
+##### MobileNets
+- [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/pdf/1704.04861.pdf)
+- [MobileNetV2: Inverted Residuals and Linear Bottlenecks](https://arxiv.org/pdf/1801.04381.pdf)
+
 
 ## Week 3
 ##### Convolutional Implementation of Sliding Windows
 - [OverFeat: Integrated recognition, localization and detection using convolutional networks](https://arxiv.org/pdf/1312.6229.pdf)
-##### Bounding Box Predictions
+##### YOLO
 - [You Only Look Once: Unified real-time object detection](https://pjreddie.com/media/files/papers/yolo.pdf)
 - [YOLO9000: Better, Faster, Stronger](https://arxiv.org/pdf/1612.08242.pdf)
 ##### Region Proposals
 - [Rich feature hierarchies for accurate object detection and semantic segmentation](https://arxiv.org/pdf/1311.2524.pdf)
 - [Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf)
 - [Faster R-CNN: Toward real-time object detection with region proposal networks](https://arxiv.org/pdf/1506.01497.pdf)
+##### U-Nets
+- [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/pdf/1505.04597.pdf)
 
 ## Week 4
 ##### Siamese Network
@@ -118,7 +124,7 @@ This is a list of research papers referenced by the
 - [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
 - [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/pdf/1502.03044.pdf)
 ##### Speech Recognition
-- [Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks](ftp://ftp.idsia.ch/pub/juergen/icml2006.pdf)
+- [Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks](https://www.cs.toronto.edu/~graves/icml_2006.pdf)
 
 
 # Further Reading List
