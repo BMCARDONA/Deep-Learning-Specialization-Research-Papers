@@ -50,7 +50,7 @@ This is a list of research papers referenced by the
 - [Very deep convolutional networks for large scale image recognition](https://arxiv.org/pdf/1409.1556.pdf)
 ##### Residual Nets (ResNets) 
 - [Deep residual networks for image recognition](https://arxiv.org/abs/1512.03385)
-##### Networks in Networks, 1x1 Convolutions
+##### Networks in Networks and 1x1 Convolutions
 - [Going deeper with convolutions](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43022.pdf) 
 - [Network In Network](https://arxiv.org/abs/1312.4400.pdf)
 ##### Inception Networks
@@ -63,7 +63,7 @@ This is a list of research papers referenced by the
 ## Week 3
 ##### Convolutional Implementation of Sliding Windows
 - [OverFeat: Integrated recognition, localization and detection using convolutional networks](https://arxiv.org/pdf/1312.6229.pdf)
-##### YOLO algorithm
+##### YOLO
 - [You Only Look Once: Unified real-time object detection](https://pjreddie.com/media/files/papers/yolo.pdf)
 - [YOLO9000: Better, Faster, Stronger](https://arxiv.org/pdf/1612.08242.pdf)
 ##### Region Proposals
@@ -78,9 +78,9 @@ This is a list of research papers referenced by the
 - [DeepFace: Closing the Gap to Human-Level Performance in Face Verification](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf)
 ##### Triplet Loss
 - [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/pdf/1503.03832.pdf)
-##### Understanding ConvNets
+##### What are deep ConvNets learning?
 - [Visualizing and understanding convolutional networks](https://arxiv.org/pdf/1311.2901.pdf)
-##### Neural Style transfer
+##### Neural Style
 - [A neural algorithm of artistic style](https://arxiv.org/abs/1508.06576)
 - [Convolutional neural networks for artistic style transfer](https://harishnarayanan.org/writing/artistic-style-transfer/)
 - [TensorFlow Implementation of "A Neural Algorithm of Artistic Style"](http://www.chioka.in/tensorflow-implementation-neural-algorithm-of-artistic-style)
@@ -91,10 +91,10 @@ This is a list of research papers referenced by the
 # NLP Sequence Models 
 
 ## Week 1 
-##### Gated Recurrent Units (GRUs)
+##### GRU
 - [On the Properties of Neural Machine Translation: Encoder-Decoder Approaches](https://arxiv.org/pdf/1409.1259.pdf)
 - [Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling](https://arxiv.org/pdf/1412.3555.pdf)
-##### Long Short-Term Memory (LSTM)
+##### LSTM
 - [Long Short-Term Memory](https://www.bioinf.jku.at/publications/older/2604.pdf)
 
 ## Week 2
@@ -105,7 +105,7 @@ This is a list of research papers referenced by the
 - [A Neural Probabilistic Language Model](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
 ##### Negative Sampling
 - [Distributed Representations of Words and Phrases and their Compositionality](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
-##### GloVe
+##### Glove
 - [GloVe: Global Vectors for Word Representation](https://www.aclweb.org/anthology/D14-1162.pdf)
 ##### Debaising Word Embeddings
 - [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings.pdf)
