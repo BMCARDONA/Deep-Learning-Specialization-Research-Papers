@@ -1,10 +1,6 @@
 # Deep-Learning-Specialization-Research-Papers
 A curated list of research papers/articles from the Deep Learning Specialization by Andrew Ng. 
 
-# DeepLearning.ai - Deep Learning Specialization
-This is a list of research papers referenced by the
-[Deep Learning Specialization](https://www.deeplearning.ai/deep-learning-specialization/) course.
-
 # Table of Contents
 - [Convolutional Neural Networks](#convolutional-neural-networks)
   * [Week 2](#week-2)
